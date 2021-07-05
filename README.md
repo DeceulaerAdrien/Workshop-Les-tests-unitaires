@@ -16,7 +16,12 @@ Pour le bon déroulement de ce workshop, il vous faudra :
 - Avoir des notions de pseudo-code [Wiki](https://fr.wikipedia.org/wiki/Pseudo-code)
 
 ## Contenu
-
+- WORKSHOP.pdf : contient les slides de la présentation du workshop
+- README.md : ce document-ci
+- package.json : 
+- dossier lib : Sont stockés les trois niveaux d'exercices, les fonctions
+- dossier test : Sont stockés les trois niveaux d'exercices, les tests
+- Bonus.md : exercice bonus
 ## Sources
 À venir...
 ## Animateurs
