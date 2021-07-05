@@ -1,4 +1,4 @@
-##Exercice Bonus
+## Exercice Bonus
 
 > Cet exercice est une mise en situatiion. Nous vous demandons de réfléchir aux TDD à réaliser pour s'assurer du bon fonctionnement de cette page.
 > Vous pouvez réaliser l'exercice en pseudocode ou via Mocha/Chai. Prenez le temps de bien cerner les demandes et de penser vos tests efficacement.
