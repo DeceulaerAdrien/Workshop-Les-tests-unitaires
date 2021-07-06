@@ -32,7 +32,7 @@ Les contraintes suivantes sont à prendre en compte :
 - Un tableau reprenant les dfférentes lignes de commande et formatté comme suit : 
 | N° ligne | N° article | Libellé | Prix unit | Quantité | Remise | Prix tot | TVA |
 |----------|------------|---------|-----------|----------|--------|----------|-----|
-|          |            |         |           |          |        |          |     |
+
 - Délai de paiement
 - Total Htva de la facture
 - Total TVAC de la facture
